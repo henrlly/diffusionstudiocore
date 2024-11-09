@@ -1,4 +1,4 @@
-import {Graphics} from "pixi.js";
+// import {Graphics} from "pixi.js";
 import { StarMaskProps } from "./mask.types";
 import { Mask } from "./mask";
 

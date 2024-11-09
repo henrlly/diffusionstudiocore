@@ -5,4 +5,4 @@
  * Public License, v. 2.0 that can be found in the LICENSE file.
  */
 
-export const FPS_DEFAULT = 30;
+export const FPS_DEFAULT = 24;

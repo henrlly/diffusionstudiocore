@@ -21,6 +21,7 @@ class MockMediaClip extends MediaClip {
 			silences: async () => silences,
 		} as any as AudioSource;
 		this.element = element;
+		duration;
 	}
 }
 
